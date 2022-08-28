@@ -1,0 +1,92 @@
+
+.header{
+    text-align: center;
+    color: black;
+    padding:20px;
+    font-size:14px;
+    background-color: #ebebea;
+    
+    
+    
+}
+.line{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    margin-left: 0%
+}
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    padding:20px;
+}
+.nav{
+    display: flex;
+}
+.navTab{
+    margin-right: 20px;
+}
+.picContainer{
+    background-image: url(https://github.com/itzamnahuerta/tokyo_bikes/blob/master/assets/tokyobike-Oksana.jpg?raw=true);
+    background-size: auto;
+    border: rgba(255, 255, 255, .75);
+    height: 1200px;
+    justify-content: flex-end;
+    flex-direction: column;
+    display: flex;
+}
+.box{
+    color: black;
+    margin-bottom: 70px;
+    padding:30px;
+    background-color: rgba(255, 255, 255, .75)
+    
+    
+}
+.shopBtn{
+    border: solid black;
+    background-color: white;
+    margin-right:92%;
+    text-align: center;
+}
+.middle{
+    text-align: center;
+}
+.bikeCard{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ebebea;
+    
+}
+.bikePic{
+    width:80%;
+    text-align: center;
+}
+.bikeCard1{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ebebea;
+}
+.iFrame{
+    text-align: center;
+    background-color: #ebebea;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
